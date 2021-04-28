@@ -1,0 +1,92 @@
+.cont__form{
+    width: 70%;
+    height: 400px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    flex-wrap: nowrap;
+}
+
+.cont__form_reg{
+    width: 40%;
+    height: 500px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    border-radius: 0 20px 20px 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    flex-wrap: nowrap;
+  
+}
+
+.cont__form___Princ{
+    display: flex !important;
+    /* flex-direction: column; */
+    height: 70vh;
+    justify-content: center;
+    align-self: center;
+    margin-top: 80px;
+}
+
+.cont__form___Princ_reg{
+    display: flex !important;
+    height: 70vh;
+    justify-content: center;
+    align-self: center;
+    margin-top: 80px;
+}
+
+.cont__form_image{
+    width: 70%;
+    height: 400px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    border-radius: 0px 0px 0px 0px;
+    background-image: url('../images/bgreg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.cont__form_image_reg{
+    width: 60%;
+    height: 500px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    border-radius: 20px 0 0 20px;
+    background-image: url('../images/bgLogin.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.parrLog__Reg {
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.title{
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    color: 'dark';
+    text-decoration: underline;
+}
