@@ -7,7 +7,7 @@
 
 <h1>Como Correr el proyecto</h1>
 <ul>
-<li>Crea una base de de datos en Postgresql llamada kuepadb</li>
+<li>Crea una base de de datos en Postgresql llamada "teleperformance"</li>
 <li>Crea un archivo dentro de la carpeta "api" llamado env.js con el siguiente contenido:
 <pre>
 <code>
