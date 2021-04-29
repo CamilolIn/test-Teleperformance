@@ -1,7 +1,7 @@
-<h1>KUEPA</h1>
+<h1>TELEPERFORMANCE</h1>
 
 <div>
-    <img src='./ReadmeAssets/Home.JPG'></img>
+    <img src='./ReadmeAssets/Home.PNG'></img>
 </div>
 
 
@@ -13,7 +13,7 @@
 <code>
 const DB_USER='tuusuariodeposgresql'
 const DB_PASSWORD='tucontraseñadepostgresql'
-const DB_HOST='localhost:tupuertodepostgre
+const DB_HOST='localhost:tupuertodepostgres'
 module.exports = {
     DB_USER,
     DB_PASSWORD,
