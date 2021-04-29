@@ -1,7 +1,7 @@
 <h1>TELEPERFORMANCE</h1>
 
 <div>
-    <img src='./ReadmeAssets/Home.PNG'></img>
+    <img src='./ReadmeAssets/Home.JPG'></img>
 </div>
 
 
