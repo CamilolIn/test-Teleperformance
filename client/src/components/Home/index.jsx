@@ -13,7 +13,7 @@ const Home = () =>  {
         <Navigation className={s.navHome}/>
         <div className={s.bgHome} >
             <div className={s.conten___Home}>
-                <h1>KUEPA<span className={s.point__title}>.</span>CO</h1>
+                <h1>TELEPERFORMANCE<span className={s.point__title}>.</span>CO</h1>
                 <h4>Accede a tus clases e interactua con tus compañeros en linea. </h4>
                 <p>Inicia sesion ya, si no tienes una cuenta registrate dando clieck en el boton.</p>
                 <Button className={s.button} onClick={() => history.push('/register')}>Resgistrar</Button>

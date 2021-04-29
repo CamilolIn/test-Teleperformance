@@ -38,7 +38,7 @@ const Navigation = ({nameUser, role, id}) =>  {
     
      <Navbar bg="dark" variant="dark" className={s.navHome}>
     <Container>
-     <Navbar.Brand href='#' as={Link} to='/'><h4>KUEPA<span className={s.point__title}>.</span>CO</h4></Navbar.Brand>
+     <Navbar.Brand href='#' as={Link} to='/'><h4>TELEPERFORMANCE<span className={s.point__title}>.</span>CO</h4></Navbar.Brand>
      <Nav className="mr-auto">
 
      </Nav>
@@ -53,7 +53,7 @@ const Navigation = ({nameUser, role, id}) =>  {
         userssLog && userssLog.role === "moderador" ?
         <Navbar bg="dark" variant="dark" className={s.navHome}>
         <Container>
-        <Navbar.Brand href='#' ><h4>KUEPA<span className={s.point__title}>.</span>CO</h4></Navbar.Brand>
+        <Navbar.Brand href='#' ><h4>TELEPERFORMANCE<span className={s.point__title}>.</span>CO</h4></Navbar.Brand>
         <Nav className="mr-auto">
 
 
